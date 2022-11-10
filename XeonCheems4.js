@@ -2281,7 +2281,7 @@ if (isBan) return reply(mess.ban)
             	if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
                if (!isCreator) return replay(`${mess.owner}`)
-               if (!text) return replay(`مثال : ${prefix + command} تع خد الباقي01098906252|الجزار الوزير يروحي`)
+               if (!text) return replay(`مثال : ${prefix + command} تم الصنع من قبل بوت مودي| مودي يروحي`)
           global.packname = text.split("|")[0]
           global.author = text.split("|")[1]
           reply(`Exif Has Been Successfully Changed to\n\n${themeemoji} Packname : ${global.packname}\n${themeemoji} Author : ${global.author}`)
@@ -10232,10 +10232,10 @@ case 'databasemenu':
 	if (isBanChat) return reply(mess.banChat)
 var unicorn = await getBuffer(picak+'Database Menu')
 await XeonBotInc.send5ButImg(from, `╔═══✪「 قائمه معلومات المطور 」	
-╠ ${prefix}رقم المطور/ https://api.whatsapp.com/send?phone=+201098906252
-╠ ${prefix}قناه اليوتيوب/ https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g
-╠ ${prefix}انستجرامي/ https://instagram.com/a_d_a_l_l_a_h?igshid=YmMyMTA2M2Y=
-╠ ${prefix}جروب الدعم/ https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn
+╠ ${prefix}رقم المطور/https://wa.me/qr/FRBJ4V7BWWJAH1
+╠ ${prefix}قناه اليوتيوب/ https://youtube.com/channel/UC24R19unGafZlRVj4wz5wyw
+╠ ${prefix}قروب المطور/ https://chat.whatsapp.com/BeXIZdss9PG1qhGtbmdrel
+╠ ${prefix}جروب الدعم/https://chat.whatsapp.com/Caz8TQqMfGU9nX3fPT2I86
 ╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "يوتيوب 📍","url": `${websitex}`}},{"urlButton": {"displayText": "الدعم🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "تبرع 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "المطور 👤","id": 'owner'}}] )
 break
 case 'indomenu':
