@@ -54,32 +54,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201098906252'] //ur owner number
-global.ownername = "𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹🐼🍷 ٫" //ur owner name
-global.ytname = "YT: Elgazar" //ur yt chanel name
-global.socialm = "GitHub: Elgazar" //ur github or insta name
-global.location = "Egypt, Cairo, Aizawl" //ur location
+global.vcardowner = ['249995163249'] //ur owner number
+global.ownername = "MOODI🐼🍷 ٫" //ur owner name
+global.ytname = "YT: Moodi " //ur yt chanel name
+global.socialm = "GitHub: Moodi " //ur github or insta name
+global.location = "Sudan, Cairo, Khartoum " //ur location
 
 //bot bomdy 
-global.owner = ['201098906252']
-global.ownertag = '201098906252' //ur tag number
-global.botname = '𝑩𝑶𝑻 𝑬𝑳𝑮𝑨𝒁𝑨𝑹🐼🍷 ٫' //ur bot name
-global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
+global.owner = ['249995163249']
+global.ownertag = '249995163249' //ur tag number
+global.botname = '𝑩𝑶𝑻 MOODI🐼🍷 ٫' //ur bot name
+global.linkz = "https://youtube.com/channel/UC24R19unGafZlRVj4wz5wyw" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UC24R19unGafZlRVj4wz5wyw" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/Caz8TQqMfGU9nX3fPT2I86' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ الجزار الوزير يروحي ⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
+global.packname = "⍣ مودي يروحي ⍣" //ur sticker watermark packname
+global.author = "⍣249995163249⍣" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://h.top4top.io/p_25054zohb0.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://h.top4top.io/p_25054zohb0.jpg") //ur logo pic
+global.err4r = fs.readFileSync("https://h.top4top.io/p_25054zohb0.jpg") //ur error pic
+global.thumb = fs.readFileSync("https://h.top4top.io/p_25054zohb0.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['201098906252'] //ur premium numbers
+global.premium = ['249995163249'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -133,7 +133,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('https://h.top4top.io/p_25054zohb0.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
