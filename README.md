@@ -1,8 +1,8 @@
 
 
-<h1 align="center">⚜️ᗷOT MOODI⚜️<br></h1>
-<p align=https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2F9eLtrr71OlwVix0Nl7NLBFNqp28atYc1b8FGJeI2cxUzX1ASOS4pv4PoTOlPNO4SQcs&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.bestsimpleapps.hack%26hl%3Dar%26gl%3DUS&tbnid=Lw5Sho1DRQ20xM&vet=1&docid=N5k6G_TOWw6jQM&w=512&h=512&source=sh%2Fx%2Fim"center">
-<img src=.jpg" alt="animated" width="540" height="280" />
+<h1 align="center">⚜️ᗷOT ᗴᒪᘜᗩᘔᗩᖇ⚜️<br></h1>
+<p align="center">
+<img src="https://telegra.ph/file/9d09a00e6c16ca29eead1.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
