@@ -2,7 +2,7 @@
 
 <h1 align="center">⚜️ᗷOT MOODI⚜️<br></h1>
 <p align="center">
-<img src="gojo.jpg" alt="animated" width="540" height="280" />
+<img src="https://h.top4top.io/p_25054zohb0.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
