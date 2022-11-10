@@ -1,8 +1,8 @@
 
 
-<h1 align="center">⚜️ᗷOT ᗴᒪᘜᗩᘔᗩᖇ⚜️<br></h1>
+<h1 align="center">⚜️ᗷOT MOODI⚜️<br></h1>
 <p align="center">
-<img src="moodi.jpg" alt="animated" width="540" height="280" />
+<img src="gojo.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
